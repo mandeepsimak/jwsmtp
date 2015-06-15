@@ -35,6 +35,8 @@
 #include "mailer.h"
 #include "base64.h"
 
+#include <cstring>
+
 namespace jwsmtp
 {
 

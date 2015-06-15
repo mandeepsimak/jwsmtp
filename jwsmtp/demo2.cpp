@@ -25,6 +25,7 @@
 //#include <boost\thread\thread.hpp>
 
 #include <iostream>
+#include <cstring>
 #include "jwsmtp/jwsmtp.h"
 
 using std::cout;
